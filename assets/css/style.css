@@ -1,0 +1,22 @@
+/*.col-md-offset-1-5{
+	margin-left: 12.5%;
+}*/
+
+.col-md-offset-0-3{
+	margin-left: calc(100% / 24);
+}
+
+/*.col-md-offset-0-3{
+	margin-left: calc(((1 / 12) * 100%) / 2);
+}*/
+
+.col-md-offset-1-5{
+	margin-left: calc(300% / 24);
+}
+
+/*.col-md-offset-1-5{
+	margin-left: calc(((3 / 12) * 100%) / 2);*/
+
+/*margin-left: calc(100% / 24);*/
+
+calc(300% / 24);

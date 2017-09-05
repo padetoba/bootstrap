@@ -1,0 +1,36 @@
+.head{
+	border: 1px solid blue;
+	padding: 10px;
+	background: #802032;
+	color: white;
+}
+.navipill{
+	float: right;
+}
+
+.banner{
+	height: 200px;
+	background: grey;
+	position: relative;
+	background: url(../../assets/img/banners/vegetables.jpg) center center fixed;
+}
+
+.absolute{
+	position: absolute;
+	top: 70px;
+	
+}
+.banner h1{
+	color: white;
+	
+}
+
+
+.pin{
+	
+	padding: 0;
+}
+
+.col-md-offset-0-5{
+	margin-left: calc(100% / 24);
+}

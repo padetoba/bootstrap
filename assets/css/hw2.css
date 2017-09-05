@@ -1,0 +1,39 @@
+.coin{
+	height: 200px;
+	background-color: cyan;
+	width: 220px;
+}
+
+.container{
+	margin-top: 20px;
+
+}
+
+.pine{
+	width: 100px;
+	height: 100px;
+	background-color: cyan;
+	padding: 0;
+	margin: 0;
+}
+
+.pine1{
+	padding-left: 0;
+}
+.pine2{
+	padding-right: 0;
+}
+
+.pine3{
+	height: 200px;
+	background-color: cyan;
+	width: 700px;
+	padding: 0;
+}
+
+.pine4{
+	height: 200px;
+	background-color: cyan;
+	width: 460px;
+	padding: 0;
+}

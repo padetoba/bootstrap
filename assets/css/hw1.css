@@ -1,0 +1,56 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	margin-top: 20px;
+}
+.navi{
+	border: 1px solid blue;
+	padding: 10px;
+	background: #204680;
+	color: white;
+}
+
+.navipill{
+	float: right;
+}
+
+.logo{
+	cursor: pointer;
+}
+
+.navipill ul li a{
+	color: white;
+}
+
+.pic{
+	padding: 0;
+	
+}
+
+p{
+	text-align: justify;
+}
+
+.pic1{
+	
+	padding: 0;
+	padding-right: 20px;
+
+}
+
+.foot{
+	border: 1px solid blue;
+	padding: 20px;
+	background: #204680;
+	color: white;
+}
+.padr{
+	padding-right: 0;
+}
+
+.just{
+	text-align: right;
+}
